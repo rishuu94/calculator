@@ -1,0 +1,18 @@
+
+.col{
+    background-color: rgb(245, 123, 75);
+}
+.p1{
+    width: calc(50% + 10px);
+}
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
